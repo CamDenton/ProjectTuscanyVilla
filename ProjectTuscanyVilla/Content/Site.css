@@ -1,0 +1,251 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: Share-Regular;
+    background-color: #286DA8;
+    
+    
+}
+
+p{
+    background: #CD5360;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+@font-face {
+    font-family: 'Share-Regular';
+    src: url('../fonts/Share-Regular.ttf') format('truetype'), url('../fonts/Share-Italic.ttf') format('truetype'), url('../fonts/Share-BoldItalic.ttf') format('truetype'), url('../fonts/Share-Bold.ttf') format('truetype');
+}
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+page-header{
+    align-content: center;
+    
+    
+}
+
+BodyOther{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+h3{
+    align-content:center;
+    
+}
+
+image{
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+
+
+#BigBox{
+    
+    position:relative;
+    
+}
+
+#BigBox p{
+    position:absolute;
+    z-index: 100;
+    background-color: rgba(0,0,0,.5);
+    top: 50%;
+    left: 50%;
+    color:white;
+}
+
+#Map{
+    position: relative;
+
+}
+
+#Map p{
+    position:absolute;
+    z-index: 100;
+    background-color: rgba(0,0,0,.5);
+    top: 50%;
+    left: 50%;
+    color:white;
+}
+
+#WhiteOne{
+    position:relative;
+
+}
+
+#WhiteOne p{
+    position:absolute;
+    z-index: 100;
+    top: 50%;
+    left: 50%;
+    color:black;
+}
+
+#Wedding{
+    
+    text-align:center;
+
+}
+
+#Wedding p{
+    position:absolute;
+    z-index: 100;
+    background-color: rgba(0,0,0,.5);
+    top: 50%;
+    left: 50%;
+    color:white;
+}
+
+#VillaOne{
+    
+    position: relative;
+}
+
+#VillaOne p{
+    position:absolute;
+    z-index: 100;
+    background-color: rgba(0,0,0,.5);
+    top: 90%;
+    left: 50%;
+    color:white;
+}
+
+#WhiteTwo{
+    position: relative;
+}
+
+#WhiteTwo p{
+    position:absolute;
+    z-index: 100;
+    top: 500%;
+    left: 50%;
+    color:black;
+    font-size: 20px;
+}
+
+#VillaTwo{
+    position: relative;
+}
+
+#VillaTwo p{
+    position:absolute;
+    z-index: 100;
+    background-color: rgba(0,0,0,.5);
+    top: 29%;
+    left: 50%;
+    color:white;
+}
+
+#Family{
+    position: relative;
+}
+
+#Family p{
+    position:absolute;
+    z-index: 100;
+    background-color: rgba(0,0,0,.5);
+    top: 50%;
+    left: 50%;
+    color:white;
+}
+
+#WhiteThree{
+    position: relative;
+}
+
+#WhiteThree p{
+    position:absolute;
+    z-index: 100;
+    top: 50%;
+    left: 50%;
+    color:black;
+    font-size: 20px;
+}
+
+#Villa3{
+    position: relative;
+}
+
+#Villa3 p{
+    position:absolute;
+    z-index: 100;
+    background-color: rgba(0,0,0,.5);
+    top: 90%;
+    left: 50%;
+    color:white;
+}
+
+#WhiteFour{
+    position: relative;
+}
+
+#WhiteFour h1{
+    position:absolute;
+    z-index: 100;
+    top: 50%;
+    color:black;
+}
+
+#Friend{
+    position: relative;
+}
+
+#Friend p{
+    position:absolute;
+    z-index: 100;
+    background-color: rgba(0,0,0,.5);
+    top: 90%;
+    left: 50%;
+    color:white;
+}
+
+#SeenOn{
+    position: relative;
+}
+
+#Reviews{
+    position: relative;
+}
+
+#Reviews content{
+    position:absolute;
+    z-index: 100;
+    top: 50%;
+    left: 50%;
+    color:black;
+}
+
+footer{
+    background-color: #438496;
+}
+
+nav{
+    background: #CD5360;
+}
+
+
+
